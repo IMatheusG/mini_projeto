@@ -1,3 +1,6 @@
+"""
+Feito por: Matheus Gabriel Souza Thimoteo Nº27 e Thiago Schmitz Da Silva Nº34
+"""
 import PySimpleGUI as sg
 
 sg.theme("DarkPurple7")
